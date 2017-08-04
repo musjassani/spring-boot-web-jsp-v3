@@ -1,0 +1,454 @@
+2017-08-04 10:01:28 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 29332 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:01:28 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:01:28 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:01:31 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 29332 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:01:31 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:01:31 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:17:12 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 27896 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:17:12 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:17:12 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:17:14 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 27896 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:17:14 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:17:14 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:23:08 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 24340 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:23:08 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:23:08 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:23:13 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:23:13 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.118 seconds (JVM running for 8.485)
+2017-08-04 10:35:01 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 32228 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:35:01 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:35:01 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:35:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:35:06 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.657 seconds (JVM running for 7.899)
+2017-08-04 10:39:30 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 29388 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:39:30 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:39:30 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:39:35 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:39:35 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.158 seconds (JVM running for 8.486)
+2017-08-04 10:48:10 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:10 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:10 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:14 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:15 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:15 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:15 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:16 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:16 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:16 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:16 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:17 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:17 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:17 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:18 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:18 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:18 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:18 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:19 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:19 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:19 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:20 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:20 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:20 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:21 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:21 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:21 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:22 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:22 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:22 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:22 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:48:22 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 30580 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:48:22 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:48:22 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:48:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:50:13 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 7252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:50:13 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:50:13 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:50:17 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:50:18 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 7252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:50:18 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:50:18 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:50:19 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:50:19 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 7252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:50:19 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:50:19 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:50:20 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:50:20 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 7252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:50:20 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:50:20 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:50:21 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 7252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:50:21 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:50:21 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:50:21 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:54:39 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 27436 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:54:39 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:54:39 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:54:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:54:44 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.813 seconds (JVM running for 8.031)
+2017-08-04 10:56:40 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 34072 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 10:56:40 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 10:56:40 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 10:56:44 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 10:56:45 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.925 seconds (JVM running for 7.932)
+2017-08-04 11:00:01 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 34548 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 11:00:01 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 11:00:01 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 11:00:05 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 11:00:06 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.076 seconds (JVM running for 7.189)
+2017-08-04 11:00:42 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 33004 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 11:00:42 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 11:00:42 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 11:00:47 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 11:00:47 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.654 seconds (JVM running for 7.776)
+2017-08-04 11:24:54 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 28932 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 11:24:54 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 11:24:54 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 11:24:59 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 11:24:59 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.692 seconds (JVM running for 7.822)
+2017-08-04 11:26:56 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 28252 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 11:26:56 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 11:26:56 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 11:27:00 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 11:27:01 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.286 seconds (JVM running for 7.642)
+2017-08-04 11:33:05 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 21552 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 11:33:05 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 11:33:05 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 11:33:09 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 11:33:10 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.587 seconds (JVM running for 7.553)
+2017-08-04 12:26:42 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 33952 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 12:26:42 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 12:26:42 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 12:26:47 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.659 seconds (JVM running for 9.125)
+2017-08-04 14:39:45 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 31816 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 14:39:45 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 14:39:45 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 14:39:52 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 14:39:52 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 7.681 seconds (JVM running for 10.547)
+2017-08-04 14:42:21 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 32564 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 14:42:21 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 14:42:21 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 14:42:26 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 14:42:26 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.931 seconds (JVM running for 10.152)
+2017-08-04 14:54:44 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 33248 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 14:54:44 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 14:54:44 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 14:54:48 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 14:54:49 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.413 seconds (JVM running for 9.137)
+2017-08-04 15:20:18 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 24912 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 15:20:18 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 15:20:18 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 15:20:23 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 15:20:23 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.423 seconds (JVM running for 8.965)
+2017-08-04 15:33:36 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 25984 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 15:33:36 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 15:33:36 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 15:33:40 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 15:33:41 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 5.919 seconds (JVM running for 8.028)
+2017-08-04 15:34:52 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 9620 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 15:34:52 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 15:34:52 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 15:34:57 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 15:34:58 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 6.578 seconds (JVM running for 9.506)
+2017-08-04 15:38:54 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 33436 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 15:38:54 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 15:38:54 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 15:39:01 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 8.343 seconds (JVM running for 11.182)
+2017-08-04 16:15:44 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 29312 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:15:44 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:15:44 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:15:51 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 7.619 seconds (JVM running for 10.178)
+2017-08-04 16:16:00 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 32868 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:16:00 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:16:00 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:16:07 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 8.459 seconds (JVM running for 11.179)
+2017-08-04 16:20:39 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 33380 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:20:39 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:20:39 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:20:46 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 8.716 seconds (JVM running for 11.908)
+2017-08-04 16:27:57 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 32880 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:27:57 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:27:57 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:28:05 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 8.913 seconds (JVM running for 11.993)
+2017-08-04 16:35:42 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 26684 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:35:42 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:35:42 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:35:49 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 8.533 seconds (JVM running for 11.051)
+2017-08-04 16:50:29 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 36752 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:50:29 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:50:29 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 16:50:34 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 16:50:35 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 7.071 seconds (JVM running for 9.595)
+2017-08-04 16:51:10 INFO main com.proto.services.impl.FilmServiceImplTest - Starting FilmServiceImplTest on APP-JASSANIM with PID 29448 (started by mustapha.jassani in C:\IntelliJWorkspace\spring-boot-web-jsp-v3)
+2017-08-04 16:51:10 DEBUG main com.proto.services.impl.FilmServiceImplTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-08-04 16:51:10 INFO main com.proto.services.impl.FilmServiceImplTest - No active profile set, falling back to default profiles: default
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKob0lbuqlbc0yb1radt69hjps1 [42102-195]
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FK9ias27kvfj3diwuiyv4yk5xi9 [42102-195]
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828
+2017-08-04 16:51:15 ERROR main org.hibernate.tool.hbm2ddl.SchemaExport - Table "FILM" not found; SQL statement:
+alter table Film drop foreign key FKs500c3jpjhoxoyypuo8e9r828 [42102-195]
+2017-08-04 16:51:16 INFO main com.proto.services.impl.FilmServiceImplTest - Started FilmServiceImplTest in 7.122 seconds (JVM running for 10.214)
